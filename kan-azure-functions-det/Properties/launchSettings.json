@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StarWarsApi.Functions": {
+      "commandName": "Project",
+      "environmentVariables": {
+        //"AZURE_FUNCTIONS_ENVIRONMENT": "Production"
+      }
+    }
+  }
+}
